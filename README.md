@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 CSE Student And Tech Enthusiast
 -------------------------------
 
-I am a passionate coder with a penchant for problem solving. I am passionate about history of royalty and wars of the olden days. I have a passion of fiddling around and understanding how it work. I also like to keep myself up to date with trends of the automotive industry and motorsports. Alongside my hobbies, I am currently delving into the fascinating world of coding and hardware emulation.
+I am a passionate coder with a penchant for problem solving, history of royalty and wars of the olden days. I like fiddling around and understanding how things work. I also like to keep myself up to date with trends of the automotive industry and motorsports. Alongside my hobbies, I am currently delving into the fascinating world of coding and hardware emulation.
 
 * 🌍  I'm based in Dharamshala, Himachal Pradesh, India
 * 🖥️  See my portfolio at [MyPortfolio](http://tech-abhivyakti-2-0-eight.vercel.app/#about)
